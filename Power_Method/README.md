@@ -26,7 +26,7 @@ Using MATLAB, build a power method algorithm. With the algorithm, check if it wo
 
 
 $$
-A=\begin{pmatrix}40&-20&0\\-20&40&-20\\0&-20&40 \end{pmatrix}\
+A=\begin{pmatrix}40&-20&0\\-20&40&-20\\0&-20&40 \end{pmatrix}
 $$
 
 
