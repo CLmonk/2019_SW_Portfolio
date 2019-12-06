@@ -41,7 +41,7 @@ Raspberrypi has two types of input source. One is for 3.3V, and the other is for
 
 
 
-##1 . LED
+## 1. LED
 
 Below is the circuit for LED experiment.
 
