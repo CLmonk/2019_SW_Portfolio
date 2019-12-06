@@ -18,7 +18,7 @@ Below are the names of software courses that I have taken and the names of relat
 
 ### Operating System
 
-/Thread_Excercise
+/Semaphore_Excercise
 
 /Mini_Compiler
 
