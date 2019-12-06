@@ -22,8 +22,8 @@ Below are the names of software courses that I have taken and the names of relat
 
 /Mini_Compiler
 
-### Graduation Project (Autonomous Vehicle)
+### Etc.
 
 /Raspberrypi_Setup
 
-/Autonomous_Vehicle
+/Raspberrypi_GPIO
