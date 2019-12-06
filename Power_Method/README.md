@@ -24,10 +24,9 @@ According to Wikipedia, power method is an eigenvalue algorithm which can be use
 
 Using MATLAB, build a power method algorithm. With the algorithm, check if it works using a given symmetric matrix A. Find a maximum eigenvalue, a minimum one, and a corresponding eigenvector.
 
+![00Example_Matrix](01_Figs/00Example_Matrix.PNG)
 
-$$
-A=\begin{pmatrix}40&-20&0\\-20&40&-20\\0&-20&40 \end{pmatrix}
-$$
+
 
 
 ## 3. Algorithm
