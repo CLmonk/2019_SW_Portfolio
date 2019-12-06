@@ -42,7 +42,7 @@ Like connecting an Wi-Fi on PC, you can connect a Wi-Fi on the raspberrypi OS GU
 
 ![24_ssh](01_Figs/24_ssh.png)
 
-If you complete the connection between RP and host PC, then login to RP.
+If you complete connecting RP and host PC, then login to RP.
 
 ![25_ssh](01_Figs/25_ssh.png)
 
